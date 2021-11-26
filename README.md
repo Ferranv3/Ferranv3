@@ -36,4 +36,5 @@ const ferran = {
 };
 ```
 
-<img src="https://media.giphy.com/media/hMKjvTYlSaFCU/giphy.gif" width="240"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+##### <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊
+<img src="https://media.giphy.com/media/hMKjvTYlSaFCU/giphy.gif" width="240"> 
