@@ -1,9 +1,8 @@
-<h2>Hi!, I'm Ferran! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="345">
-<p><em>Software developer at <a href="https://www.indracompany.com">Indra</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h2>Hi!, I'm Ferran!</h2>
+<p><em>Software developer at <a href="https://www.indracompany.com">Indra</a>
 </em></p>
 
-<p>I love code! Improving my skills all days</p>
+<p>I love code and improve my skills all days</p>
 
 <br/>
 
@@ -12,7 +11,7 @@
 <br/>
 <br/>
 <br/>
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const ferran = {
@@ -20,21 +19,17 @@ const ferran = {
     code: ["Java", "Python", "C#", "VB", "TypeScript"],
     askMeAbout: ["tech", "app dev", "web dev", "games", "films & series"],
     technologies: {
-        backEnd: {
-            js: ["Spring Boot", "Java", "C#"],
-        },
+        backEnd: ["Spring Boot", "Java", "C#", "VB"],
+        frontEnd: ["Angular", "Bootstrap", "C#", "VB"],
         mobileApp: {
-            native: ["Android Development", "Angular Development"]
+            native: ["Android Development"],
+            hybrid: ["Angular, React, Ionic", ".Net"]
         },
         devOps: ["Git", "TFS", "Docker🐳", "Virtual machines", "Nginx"],
-        databases: ["SQL Server", "mariadb", "mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "selenium"]
+        databases: ["SQL Server", "mariadb", "mongo", "MySql", "sqlite", "Firebase", "SalesForce"],
+        misc: ["Selenium"]
     },
-    architecture: ["MVC", "Domain-Driven Design", "Progressive web applications", "Single page applications"],
+    architecture: ["MVC", "Domain-Driven Design", "Progressive web applications", "Single and complex page applications"],
     currentFocus: "Java Backend Development",
-    funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-
-##### <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊
-<img src="https://media.giphy.com/media/hMKjvTYlSaFCU/giphy.gif" width="240"> 
