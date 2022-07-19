@@ -1,8 +1,8 @@
 <h2>Hi!, I'm Ferran!</h2>
-<p><em>Software developer at <a href="https://www.indracompany.com">Indra</a>
+<p><em>Full Stack Developer at <a href="https://es.linkedin.com/company/trace-logistics-fluidra">Trace Logistics</a>
 </em></p>
 
-<p>I love code and improve my skills all days</p>
+<p>Love code and improve my skills all days</p>
 
 <br/>
 
@@ -20,12 +20,12 @@ const ferran = {
     askMeAbout: ["tech", "app dev", "web dev", "games", "films & series"],
     technologies: {
         backEnd: ["Spring Boot", "Java", "C#", "VB"],
-        frontEnd: ["Angular", "Bootstrap", "C#", "VB"],
+        frontEnd: ["Angular", "Vue.js", "Bootstrap", "C#", "VB"],
         mobileApp: {
             native: ["Android Development"],
             hybrid: ["Angular, React, Ionic", ".Net"]
         },
-        devOps: ["Git", "TFS", "Docker🐳", "Virtual machines", "Nginx"],
+        devOps: ["Git", "TFS", "Docker🐳", "Rancher", "Jenkins", "Apache Tomcat", "Virtual machines", "Nginx"],
         databases: ["SQL Server", "mariadb", "mongo", "MySql", "sqlite", "Firebase", "SalesForce"],
         misc: ["Selenium"]
     },
