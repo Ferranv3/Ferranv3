@@ -16,20 +16,21 @@
 ```javascript
 const ferran = {
     pronouns: "He" | "Him",
-    code: ["Java", "Python", "C#", "VB", "TypeScript"],
+    code: ["Java", "TypeScript", "JavaScript", "Python", "C#", "VB", "PHP"],
     askMeAbout: ["tech", "app dev", "web dev", "games", "films & series"],
     technologies: {
         backEnd: ["Spring Boot", "Java", "C#", "VB"],
-        frontEnd: ["Angular", "Vue.js", "Bootstrap", "C#", "VB"],
+        frontEnd: ["Angular", "Node.js", "Vue.js", "HTML", "CSS", "Bootstrap", "C#", "VB"],
         mobileApp: {
             native: ["Android Development"],
-            hybrid: ["Angular, React, Ionic", ".Net"]
+            hybrid: ["Angular", "React", "Ionic", ".Net"]
         },
-        devOps: ["Git", "TFS", "Docker🐳", "Rancher", "Jenkins", "Apache Tomcat", "Virtual machines", "Nginx"],
-        databases: ["SQL Server", "mariadb", "mongo", "MySql", "sqlite", "Firebase", "SalesForce"],
+        testing: ["Unit Test 5", "MockMVC"],
+        devOps: ["Git", "TFS", "Docker🐳", "Kubernetes", "Rancher", "Jenkins", "Apache Tomcat", "WildFly", "Virtual machines", "Nginx"],
+        databases: ["SQL Server", "Mariadb", "Mongodb", "MySql", "SQLite", "Firebase", "SalesForce"],
         misc: ["Selenium"]
     },
-    architecture: ["MVC", "Domain-Driven Design", "Progressive web applications", "Single and complex page applications"],
-    currentFocus: "Java Backend Development",
+    architecture: ["MVC", "Domain-Driven Design", "SOLID", "TDD", "Progressive web applications", "Single and complex page applications"],
+    currentFocus: "FullStack Development and DevOps",
 };
 ```
