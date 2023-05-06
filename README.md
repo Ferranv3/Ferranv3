@@ -16,7 +16,6 @@
 
 ```javascript
 const ferran = {
-    pronouns: "He" | "Him",
     code: ["Java", "TypeScript", "JavaScript", "Python", "C#", "VB", "PHP"],
     askMeAbout: ["tech", "app dev", "web dev", "games", "films & series"],
     technologies: {
@@ -34,6 +33,6 @@ const ferran = {
     },
     methologies: ["MVC", "Domain-Driven Design", "SOLID", "TDD", "microservices", "Single Page Application"
                    "Server Side Application", "Progressive web applications", "Single and complex page applications"],
-    currentFocus: "FullStack Development and DevOps",
+    currentFocus: "FullStack Development and Cloud Architect",
 };
 ```
