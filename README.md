@@ -1,5 +1,6 @@
 <h2>Hi!, I'm Ferran!</h2>
-<p><em>Full Stack Developer at <a href="https://es.linkedin.com/company/trace-logistics-fluidra">Trace Logistics</a>
+<p><em>Analyst Developer and DevOps Engineer at <a href="https://realnaut.com/">RealNaut</a>
+<p>See more at <a href="https://astro-portfolio-ferranv3.vercel.app/">My portfolio</a></p>
 </em></p>
 
 <p>Love code and improve my skills all days</p>
@@ -19,20 +20,20 @@ const ferran = {
     code: ["Java", "TypeScript", "JavaScript", "Python", "C#", "VB", "PHP"],
     askMeAbout: ["tech", "app dev", "web dev", "games", "films & series"],
     technologies: {
-        backEnd: ["Spring Boot", "Java", "C#", "VB"],
-        frontEnd: ["Angular", "Node.js", "Vue.js", "HTML", "CSS", "Bootstrap", "C#", "VB"],
+        backEnd: ["Spring Boot", "Java", "Node .Js", "C#", "VB"],
+        frontEnd: ["React.Js", "Astro", "Next.Js", "Angular", "Node.js", "Vue.js", "HTML", "CSS", "Bootstrap", "C#", "VB"],
         mobileApp: {
             native: ["Android Development"],
             hybrid: ["Angular", "React", "Ionic", ".Net"]
         },
         testing: ["Unit Test 5", "MockMVC"],
-        devOps: ["Git", "TFS", "Docker🐳", "Kubernetes", "Rancher", "Jenkins", "Apache Tomcat", 
-                 "WildFly", "Virtual machines", "Nginx"],
+        devOps: ["Git", "Terraform", "Docker🐳", "Kubernetes", "Rancher", "Jenkins", "Tekton", "Apache Tomcat", 
+                 "WildFly", "Virtual machines", "Nginx", "TFS"],
         databases: ["SQL Server", "Mariadb", "Mongodb", "MySql", "SQLite", "Firebase", "SalesForce"],
         misc: ["Selenium"]
     },
-    architecture: ["MVC", "Domain-Driven Design", "SOLID", "TDD", 
-                   "Progressive web applications", "Single and complex page applications"],
+    methologies: ["MVC", "Domain-Driven Design", "SOLID", "TDD", "microservices", "Single Page Application"
+                   "Server Side Application", "Progressive web applications", "Single and complex page applications"],
     currentFocus: "FullStack Development and DevOps",
 };
 ```
