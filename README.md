@@ -1,6 +1,6 @@
 <h2>Hi!, I'm Ferran!</h2>
 <p><em>Analyst Developer and DevOps Engineer at <a href="https://realnaut.com/">RealNaut</a>
-<p>See more at <a href="https://ferrranhpv3.vercel.app">my portfolio</a> made using React.JS and Astro..</p>
+<p>See more at <a href="https://ferrranhpv3.vercel.app">my portfolio</a> made using React.JS and Astro.</p>
 </em></p>
 
 <p>Love code and improve my skills all days</p>
